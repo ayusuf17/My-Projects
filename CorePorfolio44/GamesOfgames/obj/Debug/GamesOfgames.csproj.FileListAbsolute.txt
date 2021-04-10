@@ -1,0 +1,7 @@
+E:\CorePorfolio44\GamesOfgames\bin\Debug\GamesOfgames.exe.config
+E:\CorePorfolio44\GamesOfgames\bin\Debug\GamesOfgames.exe
+E:\CorePorfolio44\GamesOfgames\bin\Debug\GamesOfgames.pdb
+E:\CorePorfolio44\GamesOfgames\obj\Debug\GamesOfgames.csprojAssemblyReference.cache
+E:\CorePorfolio44\GamesOfgames\obj\Debug\GamesOfgames.exe
+E:\CorePorfolio44\GamesOfgames\obj\Debug\GamesOfgames.pdb
+E:\CorePorfolio44\GamesOfgames\obj\Debug\GamesOfgames.csproj.CoreCompileInputs.cache

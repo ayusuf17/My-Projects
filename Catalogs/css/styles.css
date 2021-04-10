@@ -1,0 +1,35 @@
+/* Here we can add anything we want to suit our project. */
+
+.jumbotron{
+	padding: 30px;
+}
+
+.container{
+	padding-top:80px; /* A quick hack to stop stuff from disappearing below fixed navbar: Change this if it's not suitable for your project. */
+}
+textarea{
+	height:140px;
+}
+form{
+	max-width:400px; /* A quick hack to stop forms from being waaaayyy tooo wide. Remove if you don't like. */
+}
+
+nav{
+	max-width:40rem;
+	position:relative;
+	left:70rem;
+}
+.min{
+	display:flex;	
+}
+
+.banner-image{
+	background:url(../img/jake.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	height:40rem;
+}
+
+ul li {
+	text-decoration:none;
+}

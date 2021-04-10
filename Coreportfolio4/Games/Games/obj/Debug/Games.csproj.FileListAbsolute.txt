@@ -1,0 +1,6 @@
+E:\Coreportfolio4\Games\Games\bin\Debug\Games.exe.config
+E:\Coreportfolio4\Games\Games\bin\Debug\Games.exe
+E:\Coreportfolio4\Games\Games\bin\Debug\Games.pdb
+E:\Coreportfolio4\Games\Games\obj\Debug\Games.csprojAssemblyReference.cache
+E:\Coreportfolio4\Games\Games\obj\Debug\Games.exe
+E:\Coreportfolio4\Games\Games\obj\Debug\Games.pdb
